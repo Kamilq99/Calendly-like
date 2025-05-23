@@ -1,1 +1,2 @@
-# Calendly-like
+# Description of an app like Calendly
+The aim of the project is to create a modern, lightweight and easy-to-use Calendly-type web application, intended mainly for business clients. The application is to enable effective planning of meetings during the day, with an additional function of notifying the user by phone about an upcoming meeting, which increases its practicality and usability in environments with a high pace of work.
